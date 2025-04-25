@@ -14,6 +14,17 @@ Foram aplicadas técnicas básicas de **estatística descritiva** e **filtragem 
 
 ---
 
+## 💻 Tecnologias Utilizadas
+
+- **Python 3.10+** – linguagem de programação principal  
+- **Pandas** – para manipulação, limpeza e análise dos dados  
+- **Jupyter Notebook** (opcional) – ambiente interativo para análise de dados  
+- **Wikipedia** – fonte dos dados via `read_html`  
+
+> ⚠️ Observação: Nenhum arquivo externo precisa ser baixado. Os dados são obtidos diretamente da web.
+
+---
+
 ## 📌 Etapas da Análise
 
 1. **Coleta de Dados:**  
